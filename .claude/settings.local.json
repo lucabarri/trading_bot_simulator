@@ -13,7 +13,8 @@
       "Bash(source:*)",
       "Bash(echo $VIRTUAL_ENV)",
       "Bash(.venv/Scripts/activate.bat)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
